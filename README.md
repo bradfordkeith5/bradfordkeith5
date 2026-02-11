@@ -1,6 +1,6 @@
 # Hi there, I'm Bradford! 👋
 
-https://www.canva.com/design/DAHBCCPYH28/VG8__iGR9VaRTeIE7VOFGQ/view?utm_content=DAHBCCPYH28&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h013863e3c6
+"C:\Users\keith\Downloads\Untitled design (1).png"
 
 ## About Me 🚀
 
