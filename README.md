@@ -1,45 +1,40 @@
 # Hi there, I'm Bradford! 👋
 
-"C:\Users\keith\Downloads\Untitled design (1).png"
+![Bradford's Banner](https://img.shields.io/badge/Salesforce%20Admin-DevOps%20Specialist-blue?style=for-the-badge)
 
 ## About Me 🚀
 
-I'm a passionate **[Salesforce Administrator / DevOps Specialist]** with experience in **[Agentforce, Sales Cloud and Service Cloud]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Salesforce Administrator & DevOps Specialist** with experience in **Agentforce, Sales Cloud and Service Cloud**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[English native, Learning Haitian Creole and French]**
-- 📫 How to reach me: **[bradmkeith@gmail.com]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **Advanced Salesforce Development & Cloud Architecture**
+- 🔭 Working on: **Agentforce automation projects & DevOps pipelines**
+- 🌍 Languages: **English (native), Learning Haitian Creole and French**
+- 📫 How to reach me: **bradmkeith@gmail.com**
+- ⚡ Fun fact: **I'm passionate about bridging the gap between admin and development teams**
 
 ## My Skills 🧠
 
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Apex](https://img.shields.io/badge/-Apex-00A1E0?style=flat-square&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+*For more badges, visit [Badges4-README](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-## Featured Projects 💻
+---
 
-### [Project 1 Title](project_1_link)
+## ⚡ Quick Examples
 
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
-
+### Salesforce Apex - Query Optimization
+```apex
+// Get accounts with related contacts efficiently
+List<Account> accounts = [
+    SELECT Id, Name, (SELECT Id, Email FROM Contacts)
+    FROM Account 
+    WHERE Industry = 'Technology'
+    LIMIT 1000
+];
