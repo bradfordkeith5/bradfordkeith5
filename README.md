@@ -14,10 +14,10 @@ I'm a passionate **Salesforce Administrator & DevOps Specialist** with experienc
 
 ## My Skills 🧠
 
-![ChatGPT.js](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
+![ChatGPT.js](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![OneDrive](https://img.shields.io/badge/OneDrive-white?style=flat-square&logo=Microsoft%20OneDrive&logoColor=0078D4)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Apex](https://img.shields.io/badge/-Apex-00A1E0?style=flat-square&logoColor=white)
